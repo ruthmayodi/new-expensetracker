@@ -7,7 +7,9 @@ import {
   PushToTalkButtonContainer,
 } from "@speechly/react-ui";
 
-import { Details, Main } from "./components";
+import Details from "./components/Details";
+import Main from "./components/Main";
+
 import useStyles from "./styles";
 
 const App = () => {
