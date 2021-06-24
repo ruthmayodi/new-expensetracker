@@ -4,9 +4,12 @@ React Expense Budget Tracker
 
 
 This voice powered expense tracker is built using React Hooks, Context API, Material UI and Speechly voice API for seamless intergration into the application. 
+
 Created an expense tracker that  showcases State Management in React and Context API enabling the 
 user to share specific forms of data across all levels of the application.
+
 Applied Material UI framework to provide consistency in design for the application 
 to look aesthetically appealing. 
+
 Employed Speechly to enhance the application with voice functionalities for better user experience. 
 
